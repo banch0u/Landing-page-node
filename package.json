@@ -1,0 +1,22 @@
+{
+  "name": "cyborg-node",
+  "version": "1.0.0",
+  "description": "My first server side rendered nodejs web app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banch0u/cyborg-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/banch0u/cyborg-node/issues"
+  },
+  "homepage": "https://github.com/banch0u/cyborg-node#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
