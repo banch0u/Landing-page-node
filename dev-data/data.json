@@ -1,0 +1,89 @@
+[
+  {
+    "id": 0,
+    "gameName": "Fortnite",
+    "image": "https://www.dexerto.com/_next/image/?url=https%3A%2F%2Feditors.dexerto.com%2Fwp-content%2Fuploads%2F2021%2F01%2FFortnite-best-skins.jpg&w=3840&q=75",
+    "score": "4.1",
+    "gameType": "Battle royal",
+    "downloads": "78000000",
+    "size": "36GB",
+    "tag": "Battle Royale",
+    "description": "Fortnite is an online multiplayer video game known for its fast-paced, competitive gameplay. It features a battle royale-style mode where players fight to be the last person or team standing on a virtual island. Players must scavenge for weapons, resources, and materials to build structures for defense or offense. The game also includes a creative mode where players can build and customize their own virtual worlds. Fortnite is known for its colorful graphics, fast-paced gameplay, and regular updates with new content, events, and collaborations with popular media franchises."
+  },
+  {
+    "id": 1,
+    "gameName": "PUBG",
+    "image": "https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/pubg-battlegrounds-d4of8.jpg",
+    "score": "4.3",
+    "gameType": "Battle royal",
+    "downloads": "70000000",
+    "size": "30GB",
+    "tag": "Battle Royale",
+    "description": "PlayerUnknown's Battlegrounds (PUBG) is a popular online multiplayer battle royale game developed by PUBG Corporation. In PUBG, players are dropped onto a virtual island and compete against each other in a last-person-standing style match. Players must scavenge for weapons, resources, and gear, and engage in intense combat to survive and be the last player or team standing. The game features realistic graphics, immersive gameplay, and strategic elements such as looting, shooting, and tactical positioning. PUBG is known for its intense and adrenaline-pumping gameplay, requiring skill, strategy, and quick decision-making to emerge victorious. It is available on various platforms, including PC, console, and mobile devices, and has gained a huge player base worldwide since its release in 2017."
+  },
+  {
+    "id": 2,
+    "gameName": "Dota 2",
+    "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota2_social.jpg",
+    "score": "4.2",
+    "gameType": "MOBA",
+    "downloads": "125000000",
+    "size": "15GB",
+    "tag": "MOBA",
+    "description": "Dota 2 is a popular free-to-play multiplayer online battle arena (MOBA) game developed by Valve Corporation. It is a highly competitive and strategic game where players control unique heroes with different abilities and work together in teams to destroy the opposing team's Ancient, a heavily guarded structure in their base. Players must navigate the battlefield, defeat enemy heroes, neutral monsters, and destroy enemy towers to gain an advantage. Dota 2 features a vast roster of heroes, each with their own strengths, weaknesses, and playstyles, offering a diverse and dynamic gameplay experience. The game also includes a rich and complex metagame involving item builds, team coordination, and strategic decision-making. Dota 2 is known for its deep gameplay mechanics, challenging learning curve, and thriving esports scene with tournaments and competitions worldwide."
+  },
+  {
+    "id": 3,
+    "gameName": "CS:GO",
+    "image": "https://prod.assets.earlygamecdn.com/images/csgo-2.jpg?mtime=1678019572",
+    "score": "4.8",
+    "gameType": "FPS",
+    "downloads": "289000000",
+    "size": "13GB",
+    "tag": "FPS",
+    "description": "Counter-Strike: Global Offensive (CS:GO) is a popular first-person shooter (FPS) game developed by Valve Corporation and Hidden Path Entertainment. It is the fourth installment in the Counter-Strike series and features fast-paced, team-based gameplay. In CS:GO, players can join either the terrorist team or the counter-terrorist team and engage in intense rounds of combat across various maps. Players must work together with their team to complete objectives, such as planting or defusing bombs, or rescuing or protecting hostages, depending on the game mode. CS:GO emphasizes strategic gameplay, precise aiming, and teamwork, and offers a wide variety of weapons and equipment for players to use. The game also includes a competitive matchmaking system, where players can test their skills in ranked matches, as well as a vibrant esports scene with professional tournaments and leagues. CS:GO is known for its competitive nature, skill-based gameplay, and strategic depth, making it a popular choice for both casual and competitive gamers."
+  },
+  {
+    "id": 4,
+    "gameName": "Minecraft",
+    "image": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000000964/811461b8d1cacf1f2da791b478dccfe2a55457780364c3d5a95fbfcdd4c3086f",
+    "score": "5",
+    "gameType": "Sandbox",
+    "downloads": "354000000",
+    "size": "1GB",
+    "tag": "Sandbox",
+    "description": "Minecraft is a popular sandbox video game developed by Mojang Studios and published by Microsoft. It is a creative and open-ended game that allows players to build and explore virtual worlds made up of blocks, and offers a wide range of gameplay options. In Minecraft, players can gather resources, craft tools and items, build structures, mine for valuable materials, farm, breed animals, and interact with a variety of creatures and NPCs (non-playable characters). The game offers different modes, including Survival mode where players must manage their resources and health, and Creative mode where players have unlimited resources and can freely create and explore without constraints. Minecraft also features multiplayer modes, allowing players to collaborate and build together with friends or other players online. With its endless possibilities for creativity and exploration, Minecraft has become a global phenomenon, appealing to players of all ages and interests."
+  },
+  {
+    "id": 5,
+    "gameName": "Valorant",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/04/valorant-listing-800x450.jpg",
+    "score": "4.6",
+    "gameType": "FPS",
+    "downloads": "50000000",
+    "size": "20GB",
+    "tag": "FPS",
+    "description": "Valorant is a popular free-to-play first-person shooter (FPS) game developed by Riot Games. It is a tactical and team-based game where players compete in teams of five, taking on the roles of unique agents with special abilities. In Valorant, players engage in fast-paced, round-based matches with the objective of planting or defusing a bomb, depending on the game mode. Each agent has their own abilities, including offensive, defensive, and supportive skills, which can be strategically used to gain an advantage over the opponents. The game combines precise gunplay, strategic gameplay, and agent abilities, requiring teamwork, communication, and skill to succeed. Valorant also features a ranked mode for competitive play, as well as various maps and weapons to choose from. With its blend of tactical gameplay, unique agent abilities, and competitive nature, Valorant has gained a dedicated player base and a growing esports scene."
+  },
+  {
+    "id": 6,
+    "gameName": "LOL",
+    "image": "https://notagamer.net/wp-content/uploads/2023/01/Saint-League-of-Legends.jpeg",
+    "score": "3.9",
+    "gameType": "MOBA",
+    "downloads": "290000000",
+    "size": "15GB",
+    "tag": "MOBA",
+    "description": "League of Legends (LoL) is a popular free-to-play multiplayer online battle arena (MOBA) game developed by Riot Games. It is a team-based game where players form teams of five and compete against each other in intense, fast-paced matches. In LoL, players control unique champions with different abilities and roles, such as tanks, mages, assassins, and supports, and work together to destroy the opposing team's Nexus, the core building in their base. Players must navigate the map, defeat enemy champions, and strategically use their abilities to gain an advantage. LoL offers a vast roster of champions, each with their own playstyle, strengths, and weaknesses, providing a diverse and dynamic gameplay experience. The game also features regular updates, patches, and a competitive ranked mode, where players can test their skills in competitive matches. LoL has a large and dedicated player base, a thriving esports scene with global tournaments, and is known for its strategic depth, complex gameplay mechanics, and intense team-based battles."
+  }, {
+    "id": 7,
+    "gameName": "Overwatch 2",
+    "image": "https://cdn.mos.cms.futurecdn.net/WAY85aZ8Ek3H8rYmEoeb29.png",
+    "score": "4.4",
+    "gameType": "FPS",
+    "downloads": "80000000",
+    "size": "30GB",
+    "tag": "FPS",
+    "description": "Overwatch 2 is an upcoming FPS game by Blizzard Entertainment, serving as the sequel to the original Overwatch. It features new heroes, maps, and a story-driven PvE mode. Team up with unique heroes, complete objectives, and engage in fast-paced matches. Expected to have cross-play with the original game and maintain the original's emphasis on teamwork and hero abilities."
+  }
+]
